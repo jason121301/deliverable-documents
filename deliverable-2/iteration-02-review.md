@@ -7,8 +7,8 @@
 
 ## Iteration XX - Review & Retrospect
 
- * When: FILL IN THE DATE WHEN YOU ACTUALLY HAD YOUR REVIEW MEETING
- * Where: PHYSICAL LOCATION AND/OR ONLINE
+ * When: 2022/11/02
+ * Where: Online
 
 ## Process - Reflection
 
